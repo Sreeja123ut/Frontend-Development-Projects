@@ -1,0 +1,69 @@
+h1{
+  font-family:cursive;
+}
+#first{
+  font-style:italic;
+  background:yellow;
+  /*background-color:yellow;
+  background-width:300px;*/
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  /*border width style and color*/
+  border: 6px solid red;
+}
+#second{
+  font-weight:bold;
+
+  /*top right bottom left*/
+  /*margin: 10px 20px 30px 40px;*/
+  /*margin:inherit;*/
+border:6px ridge blue;
+background: #45e670;
+width: 50%;
+height: 50%;
+padding:75px;
+margin: auto;
+text-align: center;
+content: open-quote;
+}
+
+body{
+  background: url("https://media0.giphy.com/media/2tMuOCL17ObOPNBdfV/giphy.gif") no-repeat;
+  background-size: cover;
+
+
+}
+
+h2{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+td {
+  background-color:black;
+  width: 150px;
+  height:200px;
+
+  background-position: center;
+}
+table{
+  margin: auto;
+  padding:50px;
+}
+#one{
+  background-color:#ffbe0b;
+}
+
+#two{
+  background-color:#fb5607;
+}
+#three{
+  background-color:#ff006e;
+}
+#four{
+  background-color:#8338ec;
+}
+#five{
+  background-color:#3a86ff;
+}

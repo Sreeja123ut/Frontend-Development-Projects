@@ -1,0 +1,53 @@
+body{
+  background: url(https://image.shutterstock.com/image-photo/large-beautiful-drops-transparent-rain-260nw-668593321.jpg);
+  background-size: cover;
+}
+
+div  {
+
+  background: blue;
+  width: 300px;
+  border-style: solid;
+  border-color: white;
+  border-width:thick;
+}
+
+span
+{
+  background: Red;
+  color: blue;
+}
+.seconddiv{
+  color: white
+}
+.firstdiv{
+  color: white
+}
+
+#singleout{
+  text-decoration:underline;
+  text-decoration-color: green;
+}
+h3 + ul{
+  border-style: groove;
+  border-color: red;
+  width: 300px;
+  height: 100px;
+}
+ul a{
+  border:solid black 2px;
+}
+ul a[href ="https://www.facebook.com"]{
+  border: solid #3b4744 2px;
+  color:black;
+}
+
+.first {
+  color: #e30ea3;
+}
+#two{
+  border: solid #230ee3 2px;
+  color: #3b4744;
+  background: white;
+  width: 300px;
+}

@@ -1,0 +1,28 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+}
+body{
+  background-color: #082e47;
+  color: white;
+  text-align: center;
+  border: 40px solid #2aa4f5;
+  margin: auto;
+  border-top: 0px;
+  }
+  p{
+    padding: 0% 20% 0% 20%;
+  }
+  #submit{
+    background-color: #ed8013;
+    width: 100px;
+    height: 60px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    font-weight:bolder;
+    font-size: 20px;
+
+  }
+
+  #mandetory{
+    color:#ff1d0d;
+  }
